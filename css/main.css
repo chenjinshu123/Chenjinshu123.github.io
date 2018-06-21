@@ -935,7 +935,7 @@ img::-moz-selection {
      background-color:#DDDDDD;
      border-style:groove;
      border-color:#000000;
-     border-width:5px;
+     border-width:20px;
   }
   .post-list li {
     margin: 0 0 2.2em 0;
