@@ -470,7 +470,7 @@ img::-moz-selection {
     margin: 0;
     margin-right: 10px;
     font-size: .9em;
-    background-color: 	#666666;
+    background-color: 	#DDDDDD;
     text-indent: 10px;
     color: #4F4F4F; 
   }
@@ -932,6 +932,7 @@ img::-moz-selection {
     list-style-type: none;
     text-align: left; 
     display: inline-block;
+     background-color:#DDDDDD;
   }
   .post-list li {
     margin: 0 0 2.2em 0;
