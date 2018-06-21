@@ -970,6 +970,7 @@ img::-moz-selection {
 
   .post-list li:last-child hr {
       display: none; 
+     font-weight:bold;
   }
 
   .post-list__post-title {
