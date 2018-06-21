@@ -933,6 +933,9 @@ img::-moz-selection {
     text-align: left; 
     display: inline-block;
      background-color:#DDDDDD;
+     border-style:groove;
+     border-color:#000000;
+     border-width:5px;
   }
   .post-list li {
     margin: 0 0 2.2em 0;
