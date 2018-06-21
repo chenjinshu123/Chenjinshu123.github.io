@@ -933,7 +933,7 @@ img::-moz-selection {
     text-align: left; 
     display: inline-block;
      background-color:#DDDDDD;
-     border-style:groove;
+     border-style:outset;
      border-color:#000000;
      border-width:15px;
   }
