@@ -375,6 +375,7 @@ td:last-child {
 .pager li{ 
   margin-top: 20px;
   width:48%
+     background:#FFFFFF;
 }
 .next{
   margin-top: 20px;
