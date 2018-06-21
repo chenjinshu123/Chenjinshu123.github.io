@@ -5,7 +5,7 @@ date: 2017-10-29
 tags: 动漫   
 ---
   此前官方曾宣布，TV动画《进击的巨人》第三季2018年4月开播，不过很显然，第三季跳票了，今天官方又放出消息称第三季7月放送开始。
-<img src="/images/posts/Xcode8/111.png" height="300" width="600">  
+<img src="/images/posts/Xcode8/111.png" height="800" width="600">  
 ```
 
 
