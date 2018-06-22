@@ -1197,6 +1197,8 @@ input[type="tel"]:-ms-input-placeholder {
   .panel-main {
     display: table;
     position: relative; 
+     background: url(/images/background-111.jpg) top left no-repeat #666666;
+     
   }
 
   .panel-cover--collapsed {
